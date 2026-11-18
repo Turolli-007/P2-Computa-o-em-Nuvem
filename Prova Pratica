@@ -1,8 +1,8 @@
 Evidência 1 - 
 
 root@controlplane:~$ docker ps
-CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
-
+CONTAINER ID   IMAGE          COMMAND                  CREATED         STATUS         PORTS                                     NAMES
+a55d6706e158   nginx:alpine   "/docker-entrypoint.…"   3 seconds ago   Up 3 seconds   0.0.0.0:8090->80/tcp, [::]:8090->80/tcp   comunicado-web
 Evidência 2 
 
 root@controlplane:~$ curl http://localhost:8090
