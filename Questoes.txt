@@ -8,4 +8,6 @@
 
 2 - Um Deployment gerencia os Pods, garantindo a quantidade desejada de réplicas, realizando atualizações e permitindo a recuperação automática caso algum Pod falhe
 
-3- 
+3 - Quando exclui um Pod ele se recria novamente porem com nome diferente e isso aconteceu por que ele estava sendo gerenciado e monitorado pelo Deployment
+
+4 - A finalidade de um Service no Kubernetes é permitir a comunicação e o acesso aos Pods fornecendo uma forma estável de conexão mesmo quando os Pods são recriados ou possuem novos endereços IP
