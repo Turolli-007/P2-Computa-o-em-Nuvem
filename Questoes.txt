@@ -4,4 +4,8 @@
 
 3- Máquina Virtual possui um sistema operacional completo para cada máquina virtual ja o Conteiner compartilha o sistema operacional do host, sendo mais leve e iniciando mais rápido
 
-6 - 1 - 
+6 - 1 - A imagem Docker é o modelo usado para criar contêineres, enquanto o contêiner é a execução desse modelo em um ambiente isolado
+
+2 - Um Deployment gerencia os Pods, garantindo a quantidade desejada de réplicas, realizando atualizações e permitindo a recuperação automática caso algum Pod falhe
+
+3- 
