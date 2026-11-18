@@ -39,3 +39,9 @@ security features and capabilities please refer to
 
 Evidência 3
 
+root@controlplane:~$ kubectl get nodes
+NAME           STATUS   ROLES           AGE   VERSION
+controlplane   Ready    control-plane   13d   v1.37.1
+node01         Ready    <none>          13d   v1.37.1
+
+
