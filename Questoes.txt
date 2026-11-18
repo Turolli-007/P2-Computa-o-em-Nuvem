@@ -2,4 +2,4 @@
 
 2- Nuvem Hibrida
 
-3- 
+3- Máquina Virtual possui um sistema operacional completo para cada máquina virtual ja o Conteiner compartilha o sistema operacional do host, sendo mais leve e iniciando mais rápido
