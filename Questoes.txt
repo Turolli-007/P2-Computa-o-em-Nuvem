@@ -14,4 +14,5 @@
 
 5 - Conclusão 
 
-aprendi a criar um conteiner temporario, 
+aprendi a criar um conteiner temporario, a como acessar ele e a como personalisar. Ja com o kubernets aprendi a como criar um deployment e a como verificar os pods que o deployment gerencia, tambem foi ensinado a como criar e deletar replicas de um pod 
+e assm aprendendo como funciona a autorecuperção desse pod, foi ensinado a criar um service com acesso a http.
