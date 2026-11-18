@@ -1,0 +1,17 @@
+Evidência 1 - 
+
+root@controlplane:~$ docker ps
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+
+Evidência 2 
+
+root@controlplane:~$ curl http://localhost:8090
+curl: (7) Failed to connect to localhost port 8090 after 0 ms: Couldn't connect to server
+
+Evidência 3
+
+root@controlplane:~$ kubectl get pods
+No resources found in default namespace.
+
+Evidência 4 
+
