@@ -1,1 +1,5 @@
-1 - 
+1 - A diferenca entre a IaaS e a SaaS e que a IaaS e utilizado em infraestrutura como Servidores e Maquinas virtuais ja a SaaS ela utiliza software prontos da intenet como por exemplo Gmail, Google Docs e Microsoft 365
+
+2- Nuvem Hibrida
+
+3- 
