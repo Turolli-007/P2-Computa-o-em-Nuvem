@@ -1,4 +1,24 @@
 # P2-Computa-o-em-Nuvem
 
-Questoes escritas 
+# Questoes escritas 
 
+1 - A diferenca entre a IaaS e a SaaS e que a IaaS e utilizado em infraestrutura como Servidores e Maquinas virtuais ja a SaaS ela utiliza software prontos da intenet como por exemplo Gmail, Google Docs e Microsoft 365
+
+2- Nuvem Hibrida
+
+3- Máquina Virtual possui um sistema operacional completo para cada máquina virtual ja o Conteiner compartilha o sistema operacional do host, sendo mais leve e iniciando mais rápido
+
+6 - 1 - A imagem Docker é o modelo usado para criar contêineres, enquanto o contêiner é a execução desse modelo em um ambiente isolado
+
+2 - Um Deployment gerencia os Pods, garantindo a quantidade desejada de réplicas, realizando atualizações e permitindo a recuperação automática caso algum Pod falhe
+
+3 - Quando exclui um Pod ele se recria novamente porem com nome diferente e isso aconteceu por que ele estava sendo gerenciado e monitorado pelo Deployment
+
+4 - A finalidade de um Service no Kubernetes é permitir a comunicação e o acesso aos Pods fornecendo uma forma estável de conexão mesmo quando os Pods são recriados ou possuem novos endereços IP
+
+5 - Conclusão 
+
+aprendi a criar um conteiner temporario, a como acessar ele e a como personalisar. Ja com o kubernets aprendi a como criar um deployment e a como verificar os pods que o deployment gerencia, tambem foi ensinado a como criar e deletar replicas de um pod 
+e assm aprendendo como funciona a autorecuperção desse pod, foi ensinado a criar um service com acesso a http.
+
+# Questões Praticas
